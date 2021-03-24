@@ -27,3 +27,4 @@ public class MetadataIndexerTest extends FacebookPowerMockTestCase {
   @Test
   public void testOnActivityResumed() throws Exception {}
 }
+{}
